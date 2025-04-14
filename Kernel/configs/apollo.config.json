@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi9KernelPoweredBySeparate",
-      "repo": "https://github.com/Separatee/AllinOneKernel",
-      "branch": "main",
-      "device": "cepheus",
-      "defconfig": "cepheus_defconfig"
+      "name": "ApolloKernelPoweredBySeparate",
+      "repo": "https://github.com/18223257177/android_kernel_xiaomi_apollo.git",
+      "branch": "twelve",
+      "device": "apollo",
+      "defconfig": "apollo_defconfig"
     },
     "toolchains": [
       {
